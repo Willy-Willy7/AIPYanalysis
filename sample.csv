@@ -1,0 +1,19 @@
+review,sentiment
+"I love this product!",positive
+"This is the worst thing I have ever bought.",negative
+"It was okay, not great but not terrible.",neutral
+"Absolutely fantastic! Highly recommend.",positive
+"Will not buy again.",negative
+"Decent quality for the price.",neutral
+"Best purchase I've made this year!",positive
+"Very disappointing experience.",negative
+"Just average, nothing special.",neutral
+"Exceeded my expectations!",positive
+"Wasn't expecting much but was pleasantly surprised.",positive
+"Not bad, would recommend.",positive
+"Could be better, but not bad.",neutral
+"Very dissatisfied with the purchase.",negative
+"Would not recommend to anyone.",negative
+"Pretty good for the price.",neutral
+"Can't complain, it's alright.",neutral
+"Does the job but not impressed.",neutral
